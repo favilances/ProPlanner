@@ -58,6 +58,30 @@ export const translations = {
     month: 'Month',
     week: 'Week',
     day: 'Day',
+    
+    calendarDesigns: 'Calendar Designs',
+    selectCalendarDesign: 'Select Calendar Design',
+    applyDesign: 'Apply Design',
+    preview: 'Preview',
+    
+    classicDesign: 'Classic',
+    classicDesignDesc: 'Traditional and timeless design',
+    elegantDesign: 'Elegant',
+    elegantDesignDesc: 'Sophisticated gradient design',
+    natureDesign: 'Nature',
+    natureDesignDesc: 'Fresh and natural colors',
+    modernDesign: 'Modern',
+    modernDesignDesc: 'Bold and vibrant style',
+    minimalDesign: 'Minimal',
+    minimalDesignDesc: 'Clean and simple layout',
+    
+    exportAsICS: 'Export as ICS',
+    exportAsPDF: 'Export as PDF',
+    exportAsJPG: 'Export as JPG',
+    
+    startTime: 'Start Time',
+    endTime: 'End Time',
+    selectTime: 'Select Time',
   },
   
   tr: {
@@ -117,6 +141,30 @@ export const translations = {
     month: 'Ay',
     week: 'Hafta',
     day: 'Gün',
+    
+    calendarDesigns: 'Takvim Tasarımları',
+    selectCalendarDesign: 'Takvim Tasarımı Seçin',
+    applyDesign: 'Tasarımı Uygula',
+    preview: 'Önizleme',
+    
+    classicDesign: 'Klasik',
+    classicDesignDesc: 'Geleneksel ve zamansız tasarım',
+    elegantDesign: 'Zarif',
+    elegantDesignDesc: 'Sofistike gradyan tasarım',
+    natureDesign: 'Doğa',
+    natureDesignDesc: 'Taze ve doğal renkler',
+    modernDesign: 'Modern',
+    modernDesignDesc: 'Cesur ve canlı stil',
+    minimalDesign: 'Minimal',
+    minimalDesignDesc: 'Temiz ve basit düzen',
+    
+    exportAsICS: 'ICS olarak dışa aktar',
+    exportAsPDF: 'PDF olarak dışa aktar',
+    exportAsJPG: 'JPG olarak dışa aktar',
+    
+    startTime: 'Başlangıç Saati',
+    endTime: 'Bitiş Saati',
+    selectTime: 'Saat Seçin',
   },
   
   es: {
@@ -176,6 +224,30 @@ export const translations = {
     month: 'Mes',
     week: 'Semana',
     day: 'Día',
+    
+    calendarDesigns: 'Diseños de Calendario',
+    selectCalendarDesign: 'Seleccionar Diseño de Calendario',
+    applyDesign: 'Aplicar Diseño',
+    preview: 'Vista previa',
+    
+    classicDesign: 'Clásico',
+    classicDesignDesc: 'Diseño tradicional y atemporal',
+    elegantDesign: 'Elegante',
+    elegantDesignDesc: 'Diseño sofisticado con gradientes',
+    natureDesign: 'Naturaleza',
+    natureDesignDesc: 'Colores frescos y naturales',
+    modernDesign: 'Moderno',
+    modernDesignDesc: 'Estilo audaz y vibrante',
+    minimalDesign: 'Minimalista',
+    minimalDesignDesc: 'Diseño limpio y simple',
+    
+    exportAsICS: 'Exportar como ICS',
+    exportAsPDF: 'Exportar como PDF',
+    exportAsJPG: 'Exportar como JPG',
+    
+    startTime: 'Hora de Inicio',
+    endTime: 'Hora de Fin',
+    selectTime: 'Seleccionar Hora',
   }
 }
 
